@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    font: normal 15pt Arial;
+}
+
+a {
+    position: absolute;
+    text-decoration: none;
+}
+
+#cabeçalho {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    width: 100%;
+}
